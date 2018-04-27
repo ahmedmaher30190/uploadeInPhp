@@ -23,7 +23,7 @@ if(isset($_POST['go'])){
 
 
 ?>
-<html lang="en" dir="ltr">
+<html>
   <head>
     <meta charset="utf-8">
     <title>Uploads your frist files on php</title>
